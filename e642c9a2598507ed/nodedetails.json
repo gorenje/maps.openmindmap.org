@@ -1,0 +1,110 @@
+[
+  {
+    "id": "@gorenje/node-red-mindmap/codebase",
+    "name": "codebase",
+    "types": [
+      "Code-Base"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/comment",
+    "name": "comment",
+    "types": [
+      "Comment"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/disadvantage",
+    "name": "disadvantage",
+    "types": [
+      "Disadvantage"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/idea",
+    "name": "idea",
+    "types": [
+      "Idea"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/inspiration",
+    "name": "inspiration",
+    "types": [
+      "Inspiration"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/observation",
+    "name": "observation",
+    "types": [
+      "Observation"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/question",
+    "name": "question",
+    "types": [
+      "Question"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/text",
+    "name": "text",
+    "types": [
+      "Text"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/thought",
+    "name": "thought",
+    "types": [
+      "Thought"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.9"
+  }
+]
