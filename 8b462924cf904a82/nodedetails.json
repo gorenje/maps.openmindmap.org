@@ -1,0 +1,26 @@
+[
+  {
+    "id": "@gorenje/node-red-mindmap/aphorism",
+    "name": "aphorism",
+    "types": [
+      "Aphorism"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.6"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/idea",
+    "name": "idea",
+    "types": [
+      "Idea"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.6"
+  }
+]
