@@ -1,0 +1,14 @@
+[
+  {
+    "id": "@gorenje/node-red-mindmap/text",
+    "name": "text",
+    "types": [
+      "Text"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.5.6"
+  }
+]
