@@ -9,6 +9,6 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.6.0-b1"
+    "version": "0.6.0-b2"
   }
 ]
