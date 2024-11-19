@@ -37,6 +37,18 @@
   },
   {
     "enabled": true,
+    "id": "@gorenje/node-red-mindmap/thought",
+    "local": true,
+    "module": "@gorenje/node-red-mindmap",
+    "name": "thought",
+    "types": [
+      "Thought"
+    ],
+    "user": false,
+    "version": "0.6.5-b1"
+  },
+  {
+    "enabled": true,
     "id": "@gorenje/node-red-mindmap/topic",
     "local": true,
     "module": "@gorenje/node-red-mindmap",
