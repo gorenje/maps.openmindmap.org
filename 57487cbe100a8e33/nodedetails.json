@@ -13,6 +13,18 @@
   },
   {
     "enabled": true,
+    "id": "@gorenje/node-red-mindmap/question",
+    "local": true,
+    "module": "@gorenje/node-red-mindmap",
+    "name": "question",
+    "types": [
+      "Question"
+    ],
+    "user": false,
+    "version": "0.6.5-b1"
+  },
+  {
+    "enabled": true,
     "id": "@gorenje/node-red-mindmap/text",
     "local": true,
     "module": "@gorenje/node-red-mindmap",
