@@ -1,0 +1,38 @@
+[
+  {
+    "enabled": true,
+    "id": "@gorenje/node-red-mindmap/bookmark",
+    "local": true,
+    "module": "@gorenje/node-red-mindmap",
+    "name": "bookmark",
+    "types": [
+      "Bookmark"
+    ],
+    "user": false,
+    "version": "0.6.5-b1"
+  },
+  {
+    "enabled": true,
+    "id": "@gorenje/node-red-mindmap/text",
+    "local": true,
+    "module": "@gorenje/node-red-mindmap",
+    "name": "text",
+    "types": [
+      "Text"
+    ],
+    "user": false,
+    "version": "0.6.5-b1"
+  },
+  {
+    "enabled": true,
+    "id": "@gorenje/node-red-mindmap/topic",
+    "local": true,
+    "module": "@gorenje/node-red-mindmap",
+    "name": "topic",
+    "types": [
+      "Topic"
+    ],
+    "user": false,
+    "version": "0.6.5-b1"
+  }
+]
