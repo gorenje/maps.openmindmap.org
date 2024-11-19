@@ -13,18 +13,6 @@
   },
   {
     "enabled": true,
-    "id": "@gorenje/node-red-mindmap/codebase",
-    "local": true,
-    "module": "@gorenje/node-red-mindmap",
-    "name": "codebase",
-    "types": [
-      "Code-Base"
-    ],
-    "user": false,
-    "version": "0.6.6-b1"
-  },
-  {
-    "enabled": true,
     "id": "@gorenje/node-red-mindmap/keyword",
     "local": true,
     "module": "@gorenje/node-red-mindmap",
