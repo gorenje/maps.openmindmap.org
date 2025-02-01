@@ -1,15 +1,51 @@
 [
   {
-    "id": "@gorenje/node-red-mindmap/codebase",
-    "name": "codebase",
+    "id": "@gorenje/node-red-mindmap/aphorism",
+    "name": "aphorism",
     "types": [
-      "Code-Base"
+      "Aphorism"
     ],
     "enabled": true,
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/audio",
+    "name": "audio",
+    "types": [
+      "Audio"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/blog-post",
+    "name": "blog-post",
+    "types": [
+      "Blog-Post"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/bookmark",
+    "name": "bookmark",
+    "types": [
+      "Bookmark"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/comment",
@@ -21,7 +57,31 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gregoriusrippenstein/node-red-contacts/contact",
+    "name": "contact",
+    "types": [
+      "Contact"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/node-red-contacts",
+    "version": "0.0.3"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/definition",
+    "name": "definition",
+    "types": [
+      "Definition"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/disadvantage",
@@ -33,7 +93,7 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/idea",
@@ -45,7 +105,19 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/image",
+    "name": "image",
+    "types": [
+      "Image"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/inspiration",
@@ -57,7 +129,45 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "node-red/junction",
+    "name": "junction",
+    "types": [
+      "junction"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/link",
+    "name": "link",
+    "types": [
+      "link in",
+      "link out",
+      "link call"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/metaphor",
+    "name": "metaphor",
+    "types": [
+      "Metaphor"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/observation",
@@ -69,7 +179,19 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/poesie",
+    "name": "poesie",
+    "types": [
+      "Poesie"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/question",
@@ -81,7 +203,31 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/quote",
+    "name": "quote",
+    "types": [
+      "Quote"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gregoriusrippenstein/node-red-contrib-introspection/sink",
+    "name": "sink",
+    "types": [
+      "Sink"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/node-red-contrib-introspection",
+    "version": "0.10.2"
   },
   {
     "id": "@gorenje/node-red-mindmap/text",
@@ -93,7 +239,7 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
   },
   {
     "id": "@gorenje/node-red-mindmap/thought",
@@ -105,6 +251,30 @@
     "local": true,
     "user": false,
     "module": "@gorenje/node-red-mindmap",
-    "version": "0.5.9"
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/topic",
+    "name": "topic",
+    "types": [
+      "Topic"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/video",
+    "name": "video",
+    "types": [
+      "Video"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.17"
   }
 ]
