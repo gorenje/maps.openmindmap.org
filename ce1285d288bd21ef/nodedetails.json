@@ -1,0 +1,38 @@
+[
+  {
+    "id": "@gorenje/node-red-mindmap/audio",
+    "name": "audio",
+    "types": [
+      "Audio"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.28"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/image",
+    "name": "image",
+    "types": [
+      "Image"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.28"
+  },
+  {
+    "id": "@gorenje/node-red-mindmap/video",
+    "name": "video",
+    "types": [
+      "Video"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.28"
+  }
+]
