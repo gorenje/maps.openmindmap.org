@@ -24,6 +24,18 @@
     "version": "0.8.28"
   },
   {
+    "id": "@gorenje/node-red-mindmap/keyword",
+    "name": "keyword",
+    "types": [
+      "Keyword"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gorenje/node-red-mindmap",
+    "version": "0.8.28"
+  },
+  {
     "id": "@gorenje/node-red-mindmap/video",
     "name": "video",
     "types": [
